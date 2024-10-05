@@ -62,11 +62,6 @@ Contributions are welcome! If you would like to contribute, please follow these 
 3. Make your changes and commit them.
 4. Push your branch and create a pull request.
 
-## Acknowledgments
-
-- [Your Name] - for project development and design.
-- Special thanks to the libraries and frameworks used in this project.
-
 ## Contact
 
 For any inquiries or suggestions, feel free to contact me at [sourishdey40@gmail.com](mailto:sourishdey40@gmail.com).
